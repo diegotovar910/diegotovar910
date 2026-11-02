@@ -1,8 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34286670/README.md)
-## Hi there 👋
-
-<!--
-**diegotovar910/diegotovar910** is a ✨ _special_ ✨ repository because its `README.<h1 align="center">Hi, I'm Diego Tovar 👋</h1>
+<h1 align="center">Hi, I'm Diego Tovar 👋</h1>
 <h3 align="center">AI Developer · Data Scientist · Systems Engineer</h3>
 
 <p align="center">
@@ -85,16 +81,3 @@ I'm a **Systems Engineer** and **AI Software Engineering** student at Centennial
 ---
 
 <p align="center"><i>Open to opportunities in AI, Machine Learning, and Data. Feel free to reach out!</i></p>
-md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
