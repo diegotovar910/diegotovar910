@@ -13,12 +13,6 @@
 
 I'm a **Systems Engineer** and **AI Software Engineering** student at Centennial College in Toronto, with **4+ years of experience** in data science, data governance, and AI application development across banking, consumer goods, and the public sector.
 
-- 🏛️ **AI Developer Co-op** at the **Ontario Public Service**, integrating Generative AI into a web application for social assistance caseworkers
-- 📈 Built machine learning forecasting models that reduced forecast error by **15-20%**
-- 🗂️ Led data governance and data quality work for large banking data migrations
-- 🏆 **1st Place** at AWS Jam – GovTechON and **2nd Place** at Centennial Hacks (2026)
-- 🌎 Originally from Lima, Peru · Fluent in Spanish and English
-
 ---
 
 ## 🛠️ Skills
