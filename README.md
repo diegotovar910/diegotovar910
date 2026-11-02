@@ -69,15 +69,4 @@ I'm a **Systems Engineer** and **AI Software Engineering** student at Centennial
 
 `Data Quality` `Data Stewardship` `Metadata Management` `Data Lineage` `Demand Forecasting` `ETL`
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**Wasste – Smart Waste Sorting**](https://github.com/diegotovar910/smartsorting) | AI-powered smart bins that classify waste with Gemini Vision, plus a city dashboard, a sustainability agent, and an optimized collection route planner. | React · Node.js · MongoDB · Gemini API |
-| [**VAOS**](https://github.com/andres4640/VAOS) | Web platform connecting users with Lima's nightlife venues and events, with maps, reviews, and business accounts. | Python · Flask · PostgreSQL |
-
----
-
 <p align="center"><i>Open to opportunities in AI, Machine Learning, and Data. Feel free to reach out!</i></p>
