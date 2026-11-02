@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Diego Tovar 👋</h1>
 <h3 align="center">AI Developer · Data Scientist · Systems Engineer</h3>
 
 <p align="center">
